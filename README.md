@@ -1,5 +1,5 @@
-"# Mi Proyecto" 
+"# Mi Proyecto De vanessa Perez Avendaño" 
 "Este es mi primer proyecto con Git" 
 "" 
-"## Descripci�n" 
+"## Descripci¢n" 
 "Proyecto para aprender Git" 
